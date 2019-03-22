@@ -1,5 +1,5 @@
 # Linux-Commands
-Knowledge in Linux from the module Linux Administration in second year. 
+Knowledge in Linux from the module Linux Administration in second year of university as part of Software Development. 
 The module built on our knowledge from the previous module computer systems. Linux Administration was focused on Linux rather than
 general knowledge about computers. 
 I acquired the skills and knowledge to configure, manage and troubleshoot Linux Systems. 
